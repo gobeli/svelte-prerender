@@ -8,6 +8,10 @@
   }
 </style>
 
+<svelte:head>
+  <title>A New Title</title>
+</svelte:head>
+
 <Container>
-  <h1>A Svelte Appp</h1>
+  <h1>A Svelte App</h1>
 </Container>
