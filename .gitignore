@@ -1,0 +1,6 @@
+node_modules/
+web_modules/
+build/
+bin/dist/
+public/index.html
+public/_dist_

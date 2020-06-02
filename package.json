@@ -1,0 +1,25 @@
+{
+  "name": "svelte-prerendering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "rollup -c && snowpack build",
+    "serve": "npx serve build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-run": "^2.0.2",
+    "@snowpack/plugin-parcel": "^1.0.0",
+    "@snowpack/plugin-svelte": "^1.0.6",
+    "rollup": "^2.12.0",
+    "rollup-plugin-delete": "^1.2.0",
+    "rollup-plugin-svelte": "^5.2.2",
+    "snowpack": "^2.0.0-rc.12"
+  },
+  "dependencies": {
+    "svelte": "^3.23.0"
+  }
+}
