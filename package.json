@@ -20,6 +20,6 @@
     "snowpack": "^2.0.0-rc.12"
   },
   "dependencies": {
-    "svelte": "^3.23.0"
+    "svelte": "^3.49.0"
   }
 }
